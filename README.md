@@ -1,14 +1,3 @@
----
-title: kevin
-emoji: 🐳
-colorFrom: purple
-colorTo: red
-sdk: static
-pinned: false
-tags:
-  - deepsite
----
-
 # Savanna Bites Restaurant Website
 
 A modern, responsive website for Savanna Bites, an authentic Kenyan restaurant in Nairobi. The website is built using HTML, TailwindCSS, and JavaScript.
