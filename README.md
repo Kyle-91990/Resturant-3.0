@@ -70,10 +70,6 @@ The website is compatible with all modern browsers:
 
 If you'd like to contribute, please fork the repository and create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Credits
 
 - Images from Unsplash
